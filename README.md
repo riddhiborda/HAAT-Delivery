@@ -4,8 +4,11 @@
 
 ### 🔹 Home Screen
 
+<h3 align="center">📱 App Screenshots</h3>
+
 <p align="center">
-  <img src="s1.webp" alt="Screen 1" width="200"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="s2.webp" alt="Screen 2" width="200"/>
+  <img src="s1.webp" alt="Home Screen"
+       style="border:1px solid #ccc; border-radius:10px; margin:10px;" width="220"/>
+  <img src="s2.webp" alt="Login Screen"
+       style="border:1px solid #ccc; border-radius:10px; margin:10px;" width="220"/>
 </p>
