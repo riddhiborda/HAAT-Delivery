@@ -3,4 +3,4 @@
  ## 📱 App Screenshots
 
 ### 🔹 Home Screen
-![Home Screen](s1.png)
+![](s1.webp)
