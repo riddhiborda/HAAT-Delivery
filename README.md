@@ -13,4 +13,8 @@
        style="border:1px solid #ccc; border-radius:10px; margin:10px;" width="300"/>
   <img src="s4.webp"
        style="border:1px solid #ccc; border-radius:10px; margin:10px;" width="300"/>
+ <img src="s5.webp"
+       style="border:1px solid #ccc; border-radius:10px; margin:10px;" width="300"/>
+ <img src="s6.webp"
+       style="border:1px solid #ccc; border-radius:10px; margin:10px;" width="300"/>
 </p>
