@@ -20,6 +20,7 @@
 </p>
 <br><br><br>
 <h3 align="center">📱HAAT Partner</h3>
+<br><br><br>
 <p>
   <img src="ss1.webp" 
       style="border: 2px solid #000000; border-radius: 10px;" width="300"/>
