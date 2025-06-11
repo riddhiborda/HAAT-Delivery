@@ -18,7 +18,7 @@
  <img src="s6.webp"
        style="border:1px solid #ccc; border-radius:10px; margin:10px;" width="300"/>
 </p>
-
+<br><br><br>
 <h3 align="center">📱HAAT Partner</h3>
 <p>
   <img src="ss1.webp" 
